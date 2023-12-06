@@ -1,0 +1,25 @@
+{
+  "name": "tikamooncss",
+  "version": "1.0.0",
+  "description": "TikamoonCSS",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass base/base.scss export.css",
+    "sass:watch": "sass --watch ./base/base.scss:./export.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierredelattre/tikamooncss.git"
+  },
+  "author": "Tikamoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierredelattre/tikamooncss/issues"
+  },
+  "homepage": "https://github.com/pierredelattre/tikamooncss#readme"
+}
