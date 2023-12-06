@@ -42,6 +42,10 @@
 .main-content {
   padding: 0;
 }
+.main-content .breadcrumb {
+  position: absolute;
+  z-index: 4;
+}
 
 #page-instit {
   display: flex;
