@@ -1,5 +1,10 @@
 .main-content {
   padding: 0;
+
+  .breadcrumb {
+    position: absolute;
+    z-index: 4;
+  }
 }
 
 #page-instit {
