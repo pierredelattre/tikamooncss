@@ -1,7 +1,8 @@
 # TikamoonCSS
 
 ## Responsive
-```@media screen and (max-width: 767px) {
+```
+@media screen and (max-width: 767px) {
   /* Classe : .sm:order-0 */
 }
 
@@ -15,4 +16,5 @@
 
 @media screen and (min-width: 1440px) {
   /* Classe : .xl:order-0 */
-}```
+}
+```
