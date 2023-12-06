@@ -7,12 +7,12 @@
 ## Installation
  - Installer NodeJS : [Lien externe](https://nodejs.org/en/download/current)
  - Cloner le repo Github
-
+  
 ## Utilisation
 Pour lancer l'exportation du SASS :
  - Ouvrir un terminal (Vscode : Terminal -> New)
  - Entrer la commande ```npm run sass```
-
+  
 ## Structure
 ```
 ├── sass

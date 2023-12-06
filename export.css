@@ -1,4 +1,44 @@
 /* TikamoonCSS */
+.sofiam {
+  font-family: "sofiam";
+}
+
+.sofial {
+  font-family: "sofiapro_light";
+}
+
+@media screen and (max-width: 767px) {
+  .sm\:sofiam {
+    font-family: "sofiam";
+  }
+  .sm\:sofial {
+    font-family: "sofiapro_light";
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .md\:sofiam {
+    font-family: "sofiam";
+  }
+  .md\:sofial {
+    font-family: "sofiapro_light";
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lg\:sofiam {
+    font-family: "sofiam";
+  }
+  .lg\:sofial {
+    font-family: "sofiapro_light";
+  }
+}
+@media screen and (min-width: 1440px) {
+  .xl\:sofiam {
+    font-family: "sofiam";
+  }
+  .xl\:sofial {
+    font-family: "sofiapro_light";
+  }
+}
 /* Grid system */
 .grid {
   display: grid;
@@ -2188,6 +2228,114 @@
   }
   .xl\:rounded-24 {
     border-radius: 1.5rem;
+  }
+}
+.border-none {
+  border: none;
+}
+
+.border-solid {
+  border: solid;
+}
+
+.border-dashed {
+  border: dashed;
+}
+
+.border-dotted {
+  border: dotted;
+}
+
+.border-double {
+  border: double;
+}
+
+.border-hidden {
+  border: hidden;
+}
+
+@media screen and (max-width: 767px) {
+  /* Classe : .sm:border-none */
+  .sm\:border-none {
+    border: none;
+  }
+  .sm\:border-solid {
+    border: solid;
+  }
+  .sm\:border-dashed {
+    border: dashed;
+  }
+  .sm\:border-dotted {
+    border: dotted;
+  }
+  .sm\:border-double {
+    border: double;
+  }
+  .sm\:border-hidden {
+    border: hidden;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Classe : .md:border-none */
+  .md\:border-none {
+    border: none;
+  }
+  .md\:border-solid {
+    border: solid;
+  }
+  .md\:border-dashed {
+    border: dashed;
+  }
+  .md\:border-dotted {
+    border: dotted;
+  }
+  .md\:border-double {
+    border: double;
+  }
+  .md\:border-hidden {
+    border: hidden;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* Classe : .lg:border-none */
+  .lg\:border-none {
+    border: none;
+  }
+  .lg\:border-solid {
+    border: solid;
+  }
+  .lg\:border-dashed {
+    border: dashed;
+  }
+  .lg\:border-dotted {
+    border: dotted;
+  }
+  .lg\:border-double {
+    border: double;
+  }
+  .lg\:border-hidden {
+    border: hidden;
+  }
+}
+@media screen and (min-width: 1440px) {
+  /* Classe : .sm:border-none */
+  .xl\:border-none {
+    border: none;
+  }
+  .xl\:border-solid {
+    border: solid;
+  }
+  .xl\:border-dashed {
+    border: dashed;
+  }
+  .xl\:border-dotted {
+    border: dotted;
+  }
+  .xl\:border-double {
+    border: double;
+  }
+  .xl\:border-hidden {
+    border: hidden;
   }
 }
 

@@ -1,10 +1,17 @@
 /* TikamoonCSS */
-@import 'grid/grid';
-@import 'grid/columns';
-@import 'grid/gap';
-@import 'grid/order';
+@import 'abstracts/colors';
+@import 'abstracts/typography';
+@import 'abstracts/variables';
 
-@import 'spacings/paddings';
-@import 'spacings/margins';
+@import 'utilities/container';
 
-@import 'borders/radius';
+@import 'utilities/grid/grid';
+@import 'utilities/grid/columns';
+@import 'utilities/grid/gap';
+@import 'utilities/grid/order';
+
+@import 'utilities/spacings/paddings';
+@import 'utilities/spacings/margins';
+
+@import 'utilities/borders/radius';
+@import 'utilities/borders/style';
