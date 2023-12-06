@@ -1,0 +1,151 @@
+.rounded-0 {
+  border-radius: 0rem;
+}
+
+.rounded-4 {
+  border-radius: .25rem;
+}
+
+.rounded-8 {
+  border-radius: .5rem;
+}
+
+.rounded-12 {
+  border-radius: .75rem;
+}
+
+.rounded-16 {
+  border-radius: 1rem;
+}
+
+.rounded-20 {
+  border-radius: 1.25rem;
+}
+
+.rounded-24 {
+  border-radius: 1.5rem;
+}
+
+@media screen and (max-width: 767px) {
+  /* Classe : .sm:rounded-0 */
+  .sm\:rounded-0 {
+    border-radius: 0rem;
+  }
+
+  .sm\:rounded-4 {
+    border-radius: .25rem;
+  }
+  
+  .sm\:rounded-8 {
+    border-radius: .5rem;
+  }
+  
+  .sm\:rounded-12 {
+    border-radius: .75rem;
+  }
+  
+  .sm\:rounded-16 {
+    border-radius: 1rem;
+  }
+  
+  .sm\:rounded-20 {
+    border-radius: 1.25rem;
+  }
+  
+  .sm\:rounded-24 {
+    border-radius: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Classe : md:rounded-0 */
+  .md\:rounded-0 {
+    border-radius: 0rem;
+  }
+
+  .md\:rounded-4 {
+    border-radius: .25rem;
+  }
+  
+  .md\:rounded-8 {
+    border-radius: .5rem;
+  }
+  
+  .md\:rounded-12 {
+    border-radius: .75rem;
+  }
+  
+  .md\:rounded-16 {
+    border-radius: 1rem;
+  }
+  
+  .md\:rounded-20 {
+    border-radius: 1.25rem;
+  }
+  
+  .md\:rounded-24 {
+    border-radius: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  /* Classe : lg:rounded-0 */
+  .lg\:rounded-0 {
+    border-radius: 0rem;
+  }
+
+  .lg\:rounded-4 {
+    border-radius: .25rem;
+  }
+  
+  .lg\:rounded-8 {
+    border-radius: .5rem;
+  }
+  
+  .lg\:rounded-12 {
+    border-radius: .75rem;
+  }
+  
+  .lg\:rounded-16 {
+    border-radius: 1rem;
+  }
+  
+  .lg\:rounded-20 {
+    border-radius: 1.25rem;
+  }
+  
+  .lg\:rounded-24 {
+    border-radius: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  /* Classe : .xl:rounded-0 */
+  .xl\:rounded-0 {
+    border-radius: 0rem;
+  }
+
+  .xl\:rounded-4 {
+    border-radius: .25rem;
+  }
+  
+  .xl\:rounded-8 {
+    border-radius: .5rem;
+  }
+  
+  .xl\:rounded-12 {
+    border-radius: .75rem;
+  }
+  
+  .xl\:rounded-16 {
+    border-radius: 1rem;
+  }
+  
+  .xl\:rounded-20 {
+    border-radius: 1.25rem;
+  }
+  
+  .xl\:rounded-24 {
+    border-radius: 1.5rem;
+  }
+}

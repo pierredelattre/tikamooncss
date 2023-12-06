@@ -47,6 +47,10 @@
   grid-template-columns: repeat(12, minmax(0, 1fr));
 }
 
+.gris-cols-none {
+  grid-template-columns: none;
+}
+
 @media screen and (max-width: 767px) {
   /* Classe : .sm:grid-cols-1 */
   .sm\:grid-cols-1 {
@@ -95,6 +99,10 @@
 
   .sm\:grid-cols-12 {
     grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .sm\:gris-cols-none {
+    grid-template-columns: none;
   }
 }
 
@@ -147,6 +155,10 @@
   .md\:grid-cols-12 {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
+
+  .md\:gris-cols-none {
+    grid-template-columns: none;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -198,6 +210,10 @@
   .lg\:grid-cols-12 {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
+
+  .lg\:gris-cols-none {
+    grid-template-columns: none;
+  }
 }
 
 @media screen and (min-width: 1440px) {
@@ -248,5 +264,9 @@
 
   .xl\:grid-cols-12 {
     grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+
+  .xl\:gris-cols-none {
+    grid-template-columns: none;
   }
 }

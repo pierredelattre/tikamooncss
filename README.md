@@ -1,5 +1,11 @@
 # TikamoonCSS
 
+## CSS
+ - Fichier normal : [export.css](https://nodejs.org/en/download/current)
+ - Minifié : | 
+
+--- 
+
 ## Installation
  - Installer NodeJS : [Lien externe](https://nodejs.org/en/download/current)
  - Cloner le repo Github
@@ -8,6 +14,8 @@
 Pour lancer l'exportation du SASS :
  - Ouvrir un terminal (Vscode : Terminal -> New)
  - Entrer la commande ```npm run sass```
+
+--- 
 
 ## Responsive
 ```
