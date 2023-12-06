@@ -9,8 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "sass base/_base.scss export.css",
-    "sass:watch": "sass --watch ./base/_base.scss:./export.css"
+    "sass": "sass sass/_base.scss export.css",
+    "sass:watch": "sass --watch ./sass/_base.scss:./export.css"
   },
   "repository": {
     "type": "git",
