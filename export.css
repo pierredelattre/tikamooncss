@@ -1265,6 +1265,230 @@
     grid-column: span 12/span 12;
   }
 }
+.justify-normal {
+  justify-content: normal;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-stretch {
+  justify-content: stretch;
+}
+
+@media screen and (max-width: 767px) {
+  .sm\:justify-normal {
+    justify-content: normal;
+  }
+  .sm\:justify-start {
+    justify-content: flex-start;
+  }
+  .sm\:justify-end {
+    justify-content: flex-end;
+  }
+  .sm\:justify-center {
+    justify-content: center;
+  }
+  .sm\:justify-between {
+    justify-content: space-between;
+  }
+  .sm\:justify-evenly {
+    justify-content: space-evenly;
+  }
+  .sm\:justify-around {
+    justify-content: space-around;
+  }
+  .sm\:justify-stretch {
+    justify-content: stretch;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .md\:justify-normal {
+    justify-content: normal;
+  }
+  .md\:justify-start {
+    justify-content: flex-start;
+  }
+  .md\:justify-end {
+    justify-content: flex-end;
+  }
+  .md\:justify-center {
+    justify-content: center;
+  }
+  .md\:justify-between {
+    justify-content: space-between;
+  }
+  .md\:justify-evenly {
+    justify-content: space-evenly;
+  }
+  .md\:justify-around {
+    justify-content: space-around;
+  }
+  .md\:justify-stretch {
+    justify-content: stretch;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lg\:justify-normal {
+    justify-content: normal;
+  }
+  .lg\:justify-start {
+    justify-content: flex-start;
+  }
+  .lg\:justify-end {
+    justify-content: flex-end;
+  }
+  .lg\:justify-center {
+    justify-content: center;
+  }
+  .lg\:justify-between {
+    justify-content: space-between;
+  }
+  .lg\:justify-evenly {
+    justify-content: space-evenly;
+  }
+  .lg\:justify-around {
+    justify-content: space-around;
+  }
+  .lg\:justify-stretch {
+    justify-content: stretch;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .xl\:justify-normal {
+    justify-content: normal;
+  }
+  .xl\:justify-start {
+    justify-content: flex-start;
+  }
+  .xl\:justify-end {
+    justify-content: flex-end;
+  }
+  .xl\:justify-center {
+    justify-content: center;
+  }
+  .xl\:justify-between {
+    justify-content: space-between;
+  }
+  .xl\:justify-evenly {
+    justify-content: space-evenly;
+  }
+  .xl\:justify-around {
+    justify-content: space-around;
+  }
+  .xl\:justify-stretch {
+    justify-content: stretch;
+  }
+}
+.items-start {
+  align-items: flex-start;
+}
+
+.items-end {
+  align-items: flex-end;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-baseline {
+  align-items: baseline;
+}
+
+.items-stretch {
+  align-items: stretch;
+}
+
+@media screen and (max-width: 767px) {
+  .sm\:items-start {
+    align-items: flex-start;
+  }
+  .sm\:items-end {
+    align-items: flex-end;
+  }
+  .sm\:items-center {
+    align-items: center;
+  }
+  .sm\:items-baseline {
+    align-items: baseline;
+  }
+  .sm\:items-stretch {
+    align-items: stretch;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .md\:items-start {
+    align-items: flex-start;
+  }
+  .md\:items-end {
+    align-items: flex-end;
+  }
+  .md\:items-center {
+    align-items: center;
+  }
+  .md\:items-baseline {
+    align-items: baseline;
+  }
+  .md\:items-stretch {
+    align-items: stretch;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lg\:items-start {
+    align-items: flex-start;
+  }
+  .lg\:items-end {
+    align-items: flex-end;
+  }
+  .lg\:items-center {
+    align-items: center;
+  }
+  .lg\:items-baseline {
+    align-items: baseline;
+  }
+  .lg\:items-stretch {
+    align-items: stretch;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .xl\:items-start {
+    align-items: flex-start;
+  }
+  .xl\:items-end {
+    align-items: flex-end;
+  }
+  .xl\:items-center {
+    align-items: center;
+  }
+  .xl\:items-baseline {
+    align-items: baseline;
+  }
+  .xl\:items-stretch {
+    align-items: stretch;
+  }
+}
 .p-0 {
   padding: 0;
 }
