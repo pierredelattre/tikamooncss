@@ -25,12 +25,12 @@ Pour lancer l'exportation du SASS :
 ├── export.css
 ```
 
-**Abstracts** : Fichiers variables, fonctions etc.
-**Components** : Composants
-**Layout** : Groupes d'éléments (bannière, card...)
-**Pages** : Propre à des pages / types (boutique, matière...)
-**Utilities** : FIchiers pour la mise en page (grids, spacings, borders...)
-**_base.scss** : Fichier primaire global où sont importés tous les fichiers secondaires (ci-dessus)
+**Abstracts** : Fichiers variables, fonctions etc.  
+**Components** : Composants  
+**Layout** : Groupes d'éléments (bannière, card...)  
+**Pages** : Propre à des pages / types (boutique, matière...)  
+**Utilities** : FIchiers pour la mise en page (grids, spacings, borders...)  
+**_base.scss** : Fichier primaire global où sont importés tous les fichiers secondaires (ci-dessus)  
 **export.css** : Fichier d'export
 
 ## Responsive
