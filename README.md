@@ -1,7 +1,7 @@
 # TikamoonCSS
 
 ## CSS
- - Fichier normal : [export.css](https://nodejs.org/en/download/current)
+ - Fichier normal : [export.css](https://github.com/pierredelattre/tikamooncss/blob/main/export.css)
  - Minifié : | 
 
 --- 
