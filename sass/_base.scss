@@ -1,8 +1,10 @@
 /* TikamoonCSS */
+/* Abstracts */
 @import 'abstracts/colors';
 @import 'abstracts/typography';
 @import 'abstracts/variables';
 
+/* Utilities */
 @import 'utilities/container';
 
 @import 'utilities/grid/grid';
@@ -18,3 +20,7 @@
 
 @import 'utilities/borders/radius';
 @import 'utilities/borders/style';
+
+/* Components */
+/* Layout */
+/* Pages */
