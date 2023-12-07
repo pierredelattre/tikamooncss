@@ -355,39 +355,39 @@
 }
 /* Grid : Gap */
 .g-05 {
-  grid-gap: 0.5rem;
+  gap: 0.5rem;
 }
 
 .g-1 {
-  grid-gap: 1rem;
+  gap: 1rem;
 }
 
 .g-2 {
-  grid-gap: 2rem;
+  gap: 2rem;
 }
 
 .g-3 {
-  grid-gap: 3rem;
+  gap: 3rem;
 }
 
 .g-4 {
-  grid-gap: 4rem;
+  gap: 4rem;
 }
 
 .g-5 {
-  grid-gap: 5rem;
+  gap: 5rem;
 }
 
 .g-6 {
-  grid-gap: 6rem;
+  gap: 6rem;
 }
 
 .g-7 {
-  grid-gap: 7rem;
+  gap: 7rem;
 }
 
 .g-8 {
-  grid-gap: 8rem;
+  gap: 8rem;
 }
 
 .gx-05 {
@@ -465,31 +465,31 @@
 @media screen and (max-width: 767px) {
   /* Classe : .sm:g-05 */
   .sm\:g-05 {
-    grid-gap: 0.5rem;
+    gap: 0.5rem;
   }
   .sm\:g-1 {
-    grid-gap: 1rem;
+    gap: 1rem;
   }
   .sm\:g-2 {
-    grid-gap: 2rem;
+    gap: 2rem;
   }
   .sm\:g-3 {
-    grid-gap: 3rem;
+    gap: 3rem;
   }
   .sm\:g-4 {
-    grid-gap: 4rem;
+    gap: 4rem;
   }
   .sm\:g-5 {
-    grid-gap: 5rem;
+    gap: 5rem;
   }
   .sm\:g-6 {
-    grid-gap: 6rem;
+    gap: 6rem;
   }
   .sm\:g-7 {
-    grid-gap: 7rem;
+    gap: 7rem;
   }
   .sm\:g-8 {
-    grid-gap: 8rem;
+    gap: 8rem;
   }
   .sm\:gx-05 {
     column-gap: 0.5rem;
@@ -549,31 +549,31 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   /* Classe : .md:g-05 */
   .md\:g-05 {
-    grid-gap: 0.5rem;
+    gap: 0.5rem;
   }
   .md\:g-1 {
-    grid-gap: 1rem;
+    gap: 1rem;
   }
   .md\:g-2 {
-    grid-gap: 2rem;
+    gap: 2rem;
   }
   .md\:g-3 {
-    grid-gap: 3rem;
+    gap: 3rem;
   }
   .md\:g-4 {
-    grid-gap: 4rem;
+    gap: 4rem;
   }
   .md\:g-5 {
-    grid-gap: 5rem;
+    gap: 5rem;
   }
   .md\:g-6 {
-    grid-gap: 6rem;
+    gap: 6rem;
   }
   .md\:g-7 {
-    grid-gap: 7rem;
+    gap: 7rem;
   }
   .md\:g-8 {
-    grid-gap: 8rem;
+    gap: 8rem;
   }
   .md\:gx-05 {
     column-gap: 0.5rem;
@@ -633,31 +633,31 @@
 @media screen and (min-width: 1024px) {
   /* Classe : .lg:g-05 */
   .lg\:g-05 {
-    grid-gap: 0.5rem;
+    gap: 0.5rem;
   }
   .lg\:g-1 {
-    grid-gap: 1rem;
+    gap: 1rem;
   }
   .lg\:g-2 {
-    grid-gap: 2rem;
+    gap: 2rem;
   }
   .lg\:g-3 {
-    grid-gap: 3rem;
+    gap: 3rem;
   }
   .lg\:g-4 {
-    grid-gap: 4rem;
+    gap: 4rem;
   }
   .lg\:g-5 {
-    grid-gap: 5rem;
+    gap: 5rem;
   }
   .lg\:g-6 {
-    grid-gap: 6rem;
+    gap: 6rem;
   }
   .lg\:g-7 {
-    grid-gap: 7rem;
+    gap: 7rem;
   }
   .lg\:g-8 {
-    grid-gap: 8rem;
+    gap: 8rem;
   }
   .lg\:gx-05 {
     column-gap: 0.5rem;
@@ -717,31 +717,31 @@
 @media screen and (min-width: 1440px) {
   /* Classe : .xl:g-05 */
   .xl\:g-05 {
-    grid-gap: 0.5rem;
+    gap: 0.5rem;
   }
   .xl\:g-1 {
-    grid-gap: 1rem;
+    gap: 1rem;
   }
   .xl\:g-2 {
-    grid-gap: 2rem;
+    gap: 2rem;
   }
   .xl\:g-3 {
-    grid-gap: 3rem;
+    gap: 3rem;
   }
   .xl\:g-4 {
-    grid-gap: 4rem;
+    gap: 4rem;
   }
   .xl\:g-5 {
-    grid-gap: 5rem;
+    gap: 5rem;
   }
   .xl\:g-6 {
-    grid-gap: 6rem;
+    gap: 6rem;
   }
   .xl\:g-7 {
-    grid-gap: 7rem;
+    gap: 7rem;
   }
   .xl\:g-8 {
-    grid-gap: 8rem;
+    gap: 8rem;
   }
   .xl\:gx-05 {
     column-gap: 0.5rem;
