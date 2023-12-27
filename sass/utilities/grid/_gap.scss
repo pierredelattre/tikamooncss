@@ -1,6 +1,4 @@
 /* Grid : Gap */
-
-/* Test */
 #page-instit .g-05 {
   gap: .5rem;
 }
@@ -9,8 +7,20 @@
   gap: 1rem;
 }
 
+#page-instit .g-125 {
+  gap: 1.25rem;
+}
+
+#page-instit .g-15 {
+  gap: 1.5rem;
+}
+
 #page-instit .g-2 {
   gap: 2rem;
+}
+
+#page-instit .g-25 {
+  gap: 2.5rem;
 }
 
 #page-instit .g-3 {
@@ -45,8 +55,20 @@
   column-gap: 1rem;
 }
 
+#page-instit .gx-125 {
+  column-gap: 1.25rem;
+}
+
+#page-instit .gx-15 {
+  column-gap: 1.5rem;
+}
+
 #page-instit .gx-2 {
   column-gap: 2rem;
+}
+
+#page-instit .gx-25 {
+  column-gap: 2.5rem;
 }
 
 #page-instit .gx-3 {
@@ -81,8 +103,20 @@
   row-gap: 1rem;
 }
 
+#page-instit .gy-125 {
+  row-gap: 1.25rem;
+}
+
+#page-instit .gy-15 {
+  row-gap: 1.5rem;
+}
+
 #page-instit .gy-2 {
   row-gap: 2rem;
+}
+
+#page-instit .gy-25 {
+  row-gap: 2.5rem;
 }
 
 #page-instit .gy-3 {
@@ -114,31 +148,43 @@
   #page-instit .sm\:g-05 {
     gap: .5rem;
   }
-  
+
   #page-instit .sm\:g-1 {
     gap: 1rem;
   }
-  
+
+  #page-instit .sm\:g-125 {
+    gap: 1.25rem;
+  }
+
+  #page-instit .sm\:g-15 {
+    gap: 1.5rem;
+  }
+
   #page-instit .sm\:g-2 {
     gap: 2rem;
   }
-  
+
+  #page-instit .sm\:g-25 {
+    gap: 2.5rem;
+  }
+
   #page-instit .sm\:g-3 {
     gap: 3rem;
   }
-  
+
   #page-instit .sm\:g-4 {
     gap: 4rem;
   }
-  
+
   #page-instit .sm\:g-5 {
     gap: 5rem;
   }
-  
+
   #page-instit .sm\:g-6 {
     gap: 6rem;
   }
-  
+
   #page-instit .sm\:g-7 {
     gap: 7rem;
   }
@@ -150,71 +196,95 @@
   #page-instit .sm\:gx-05 {
     column-gap: .5rem;
   }
-  
+
   #page-instit .sm\:gx-1 {
     column-gap: 1rem;
   }
-  
+
+  #page-instit .sm\:gx-125 {
+    column-gap: 1.25rem;
+  }
+
+  #page-instit .sm\:gx-15 {
+    column-gap: 1.5rem;
+  }
+
   #page-instit .sm\:gx-2 {
     column-gap: 2rem;
   }
-  
+
+  #page-instit .sm\:gx-25 {
+    column-gap: 2.5rem;
+  }
+
   #page-instit .sm\:gx-3 {
     column-gap: 3rem;
   }
-  
+
   #page-instit .sm\:gx-4 {
     column-gap: 4rem;
   }
-  
+
   #page-instit .sm\:gx-5 {
     column-gap: 5rem;
   }
-  
+
   #page-instit .sm\:gx-6 {
     column-gap: 6rem;
   }
-  
+
   #page-instit .sm\:gx-7 {
     column-gap: 7rem;
   }
-  
+
   #page-instit .sm\:gx-8 {
     column-gap: 8rem;
   }
-  
+
   #page-instit .sm\:gy-05 {
     row-gap: .5rem;
   }
-  
+
   #page-instit .sm\:gy-1 {
     row-gap: 1rem;
   }
-  
+
+  #page-instit .sm\:gy-125 {
+    row-gap: 1.25rem;
+  }
+
+  #page-instit .sm\:gy-15 {
+    row-gap: 1.5rem;
+  }
+
   #page-instit .sm\:gy-2 {
     row-gap: 2rem;
   }
-  
+
+  #page-instit .sm\:gy-25 {
+    row-gap: 2.5rem;
+  }
+
   #page-instit .sm\:gy-3 {
     row-gap: 3rem;
   }
-  
+
   #page-instit .sm\:gy-4 {
     row-gap: 4rem;
   }
-  
+
   #page-instit .sm\:gy-5 {
     row-gap: 5rem;
   }
-  
+
   #page-instit .sm\:gy-6 {
     row-gap: 6rem;
   }
-  
+
   #page-instit .sm\:gy-7 {
     row-gap: 7rem;
   }
-  
+
   #page-instit .sm\:gy-8 {
     row-gap: 8rem;
   }
@@ -225,31 +295,43 @@
   #page-instit .md\:g-05 {
     gap: .5rem;
   }
-  
+
   #page-instit .md\:g-1 {
     gap: 1rem;
   }
-  
+
+  #page-instit .md\:g-125 {
+    gap: 1.25rem;
+  }
+
+  #page-instit .md\:g-15 {
+    gap: 1.5rem;
+  }
+
   #page-instit .md\:g-2 {
     gap: 2rem;
   }
-  
+
+  #page-instit .md\:g-25 {
+    gap: 2.5rem;
+  }
+
   #page-instit .md\:g-3 {
     gap: 3rem;
   }
-  
+
   #page-instit .md\:g-4 {
     gap: 4rem;
   }
-  
+
   #page-instit .md\:g-5 {
     gap: 5rem;
   }
-  
+
   #page-instit .md\:g-6 {
     gap: 6rem;
   }
-  
+
   #page-instit .md\:g-7 {
     gap: 7rem;
   }
@@ -261,71 +343,95 @@
   #page-instit .md\:gx-05 {
     column-gap: .5rem;
   }
-  
+
   #page-instit .md\:gx-1 {
     column-gap: 1rem;
   }
-  
+
+  #page-instit .md\:gx-125 {
+    column-gap: 1.25rem;
+  }
+
+  #page-instit .md\:gx-15 {
+    column-gap: 1.5rem;
+  }
+
   #page-instit .md\:gx-2 {
     column-gap: 2rem;
   }
-  
+
+  #page-instit .md\:gx-25 {
+    column-gap: 2.5rem;
+  }
+
   #page-instit .md\:gx-3 {
     column-gap: 3rem;
   }
-  
+
   #page-instit .md\:gx-4 {
     column-gap: 4rem;
   }
-  
+
   #page-instit .md\:gx-5 {
     column-gap: 5rem;
   }
-  
+
   #page-instit .md\:gx-6 {
     column-gap: 6rem;
   }
-  
+
   #page-instit .md\:gx-7 {
     column-gap: 7rem;
   }
-  
+
   #page-instit .md\:gx-8 {
     column-gap: 8rem;
   }
-  
+
   #page-instit .md\:gy-05 {
     row-gap: .5rem;
   }
-  
+
   #page-instit .md\:gy-1 {
     row-gap: 1rem;
   }
-  
+
+  #page-instit .md\:gy-125 {
+    row-gap: 1.25rem;
+  }
+
+  #page-instit .md\:gy-15 {
+    row-gap: 1.5rem;
+  }
+
   #page-instit .md\:gy-2 {
     row-gap: 2rem;
   }
-  
+
+  #page-instit .md\:gy-25 {
+    row-gap: 2.5rem;
+  }
+
   #page-instit .md\:gy-3 {
     row-gap: 3rem;
   }
-  
+
   #page-instit .md\:gy-4 {
     row-gap: 4rem;
   }
-  
+
   #page-instit .md\:gy-5 {
     row-gap: 5rem;
   }
-  
+
   #page-instit .md\:gy-6 {
     row-gap: 6rem;
   }
-  
+
   #page-instit .md\:gy-7 {
     row-gap: 7rem;
   }
-  
+
   #page-instit .md\:gy-8 {
     row-gap: 8rem;
   }
@@ -341,8 +447,20 @@
     gap: 1rem;
   }
   
+  #page-instit .lg\:g-125 {
+    gap: 1.25rem;
+  }
+  
+  #page-instit .lg\:g-15 {
+    gap: 1.5rem;
+  }
+  
   #page-instit .lg\:g-2 {
     gap: 2rem;
+  }
+  
+  #page-instit .lg\:g-25 {
+    gap: 2.5rem;
   }
   
   #page-instit .lg\:g-3 {
@@ -364,11 +482,11 @@
   #page-instit .lg\:g-7 {
     gap: 7rem;
   }
-
+  
   #page-instit .lg\:g-8 {
     gap: 8rem;
   }
-
+  
   #page-instit .lg\:gx-05 {
     column-gap: .5rem;
   }
@@ -377,8 +495,20 @@
     column-gap: 1rem;
   }
   
+  #page-instit .lg\:gx-125 {
+    column-gap: 1.25rem;
+  }
+  
+  #page-instit .lg\:gx-15 {
+    column-gap: 1.5rem;
+  }
+  
   #page-instit .lg\:gx-2 {
     column-gap: 2rem;
+  }
+  
+  #page-instit .lg\:gx-25 {
+    column-gap: 2.5rem;
   }
   
   #page-instit .lg\:gx-3 {
@@ -413,8 +543,20 @@
     row-gap: 1rem;
   }
   
+  #page-instit .lg\:gy-125 {
+    row-gap: 1.25rem;
+  }
+  
+  #page-instit .lg\:gy-15 {
+    row-gap: 1.5rem;
+  }
+  
   #page-instit .lg\:gy-2 {
     row-gap: 2rem;
+  }
+  
+  #page-instit .lg\:gy-25 {
+    row-gap: 2.5rem;
   }
   
   #page-instit .lg\:gy-3 {
@@ -452,8 +594,20 @@
     gap: 1rem;
   }
   
+  #page-instit .xl\:g-125 {
+    gap: 1.25rem;
+  }
+  
+  #page-instit .xl\:g-15 {
+    gap: 1.5rem;
+  }
+  
   #page-instit .xl\:g-2 {
     gap: 2rem;
+  }
+  
+  #page-instit .xl\:g-25 {
+    gap: 2.5rem;
   }
   
   #page-instit .xl\:g-3 {
@@ -475,11 +629,11 @@
   #page-instit .xl\:g-7 {
     gap: 7rem;
   }
-
+  
   #page-instit .xl\:g-8 {
     gap: 8rem;
   }
-
+  
   #page-instit .xl\:gx-05 {
     column-gap: .5rem;
   }
@@ -488,8 +642,20 @@
     column-gap: 1rem;
   }
   
+  #page-instit .xl\:gx-125 {
+    column-gap: 1.25rem;
+  }
+  
+  #page-instit .xl\:gx-15 {
+    column-gap: 1.5rem;
+  }
+  
   #page-instit .xl\:gx-2 {
     column-gap: 2rem;
+  }
+  
+  #page-instit .xl\:gx-25 {
+    column-gap: 2.5rem;
   }
   
   #page-instit .xl\:gx-3 {
@@ -524,8 +690,20 @@
     row-gap: 1rem;
   }
   
+  #page-instit .xl\:gy-125 {
+    row-gap: 1.25rem;
+  }
+  
+  #page-instit .xl\:gy-15 {
+    row-gap: 1.5rem;
+  }
+  
   #page-instit .xl\:gy-2 {
     row-gap: 2rem;
+  }
+  
+  #page-instit .xl\:gy-25 {
+    row-gap: 2.5rem;
   }
   
   #page-instit .xl\:gy-3 {
