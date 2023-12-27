@@ -8,13 +8,14 @@
 /* Utilities */
 @import 'utilities/container';
 
-@import 'utilities/grid/grid';
-@import 'utilities/grid/columns';
-@import 'utilities/grid/gap';
-@import 'utilities/grid/order';
-@import 'utilities/grid/spans';
-@import 'utilities/grid/justify';
-@import 'utilities/grid/align-items';
+@import 'utilities/layout/grid';
+@import 'utilities/layout/flex';
+@import 'utilities/layout/columns';
+@import 'utilities/layout/gap';
+@import 'utilities/layout/order';
+@import 'utilities/layout/spans';
+@import 'utilities/layout/justify';
+@import 'utilities/layout/align-items';
 
 @import 'utilities/spacings/paddings';
 @import 'utilities/spacings/margins';

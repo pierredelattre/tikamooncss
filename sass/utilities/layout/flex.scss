@@ -1,0 +1,28 @@
+/* Grid system */
+#page-instit .flex   {
+  display: flex;
+}
+
+@media screen and (max-width: 767px) {
+  .sm\:flex {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .md\:flex {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lg\:flex {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .xl\:flex {
+    display: flex;
+  }
+}
