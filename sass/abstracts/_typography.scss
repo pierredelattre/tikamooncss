@@ -1,47 +1,47 @@
-.sofiam {
+#page-instit .sofiam {
   font-family: 'sofiam';
 }
 
-.sofial {
+#page-instit .sofial {
   font-family: 'sofiapro_light';
 }
 
 @media screen and (max-width: 767px) {
-  .sm\:sofiam {
+  #page-instit .sm\:sofiam {
     font-family: 'sofiam';
   }
   
-  .sm\:sofial {
+  #page-instit .sm\:sofial {
     font-family: 'sofiapro_light';
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .md\:sofiam {
+  #page-instit .md\:sofiam {
     font-family: 'sofiam';
   }
   
-  .md\:sofial {
+  #page-instit .md\:sofial {
     font-family: 'sofiapro_light';
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .lg\:sofiam {
+  #page-instit .lg\:sofiam {
     font-family: 'sofiam';
   }
   
-  .lg\:sofial {
+  #page-instit .lg\:sofial {
     font-family: 'sofiapro_light';
   }
 }
 
 @media screen and (min-width: 1440px) {
-  .xl\:sofiam {
+  #page-instit .xl\:sofiam {
     font-family: 'sofiam';
   }
   
-  .xl\:sofial {
+  #page-instit .xl\:sofial {
     font-family: 'sofiapro_light';
   }
 }

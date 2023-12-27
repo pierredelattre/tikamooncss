@@ -1,107 +1,107 @@
-.items-start {
+#page-instit .items-start {
   align-items: flex-start;
 }
 
-.items-end {
+#page-instit .items-end {
   align-items: flex-end;
 }
 
-.items-center {
+#page-instit .items-center {
   align-items: center;
 }
 
-.items-baseline {
+#page-instit .items-baseline {
   align-items: baseline;
 }
 
-.items-stretch {
+#page-instit .items-stretch {
   align-items: stretch;
 }
 
 @media screen and (max-width: 767px) {
-  .sm\:items-start {
+  #page-instit .sm\:items-start {
     align-items: flex-start;
   }
   
-  .sm\:items-end {
+  #page-instit .sm\:items-end {
     align-items: flex-end;
   }
   
-  .sm\:items-center {
+  #page-instit .sm\:items-center {
     align-items: center;
   }
   
-  .sm\:items-baseline {
+  #page-instit .sm\:items-baseline {
     align-items: baseline;
   }
   
-  .sm\:items-stretch {
+  #page-instit .sm\:items-stretch {
     align-items: stretch;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .md\:items-start {
+  #page-instit .md\:items-start {
     align-items: flex-start;
   }
   
-  .md\:items-end {
+  #page-instit .md\:items-end {
     align-items: flex-end;
   }
   
-  .md\:items-center {
+  #page-instit .md\:items-center {
     align-items: center;
   }
   
-  .md\:items-baseline {
+  #page-instit .md\:items-baseline {
     align-items: baseline;
   }
   
-  .md\:items-stretch {
+  #page-instit .md\:items-stretch {
     align-items: stretch;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .lg\:items-start {
+  #page-instit .lg\:items-start {
     align-items: flex-start;
   }
   
-  .lg\:items-end {
+  #page-instit .lg\:items-end {
     align-items: flex-end;
   }
   
-  .lg\:items-center {
+  #page-instit .lg\:items-center {
     align-items: center;
   }
   
-  .lg\:items-baseline {
+  #page-instit .lg\:items-baseline {
     align-items: baseline;
   }
   
-  .lg\:items-stretch {
+  #page-instit .lg\:items-stretch {
     align-items: stretch;
   }
 }
 
 @media screen and (min-width: 1440px) {
-  .xl\:items-start {
+  #page-instit .xl\:items-start {
     align-items: flex-start;
   }
   
-  .xl\:items-end {
+  #page-instit .xl\:items-end {
     align-items: flex-end;
   }
   
-  .xl\:items-center {
+  #page-instit .xl\:items-center {
     align-items: center;
   }
   
-  .xl\:items-baseline {
+  #page-instit .xl\:items-baseline {
     align-items: baseline;
   }
   
-  .xl\:items-stretch {
+  #page-instit .xl\:items-stretch {
     align-items: stretch;
   }
 }

@@ -13,122 +13,122 @@
   align-items: center;
 }
 
-.container {
+#page-instit .container {
   width: calc(100% - 30rem);
 }
 
-.container-xl {
+#page-instit .container-xl {
   width: calc(100% - 160px);
 }
 
-.container-lg {
+#page-instit .container-lg {
   width: calc(100% - 240px);
 }
 
-.container-full {
+#page-instit .container-full {
   width: 100%;
 }
 
 @media screen and (max-width: 767px) {
-  .container {
+  #page-instit .container {
     width: calc(100% - 3rem);
   }
   
-  .container-xl {
+  #page-instit .container-xl {
     width: calc(100% - 3rem);
   }
   
-  .container-lg {
+  #page-instit .container-lg {
     width: calc(100% - 3rem);
   }
 
-  .container-full {
+  #page-instit .container-full {
     width: 100%;
   }
 
-  .sm\:container {
+  #page-instit .sm\:container {
     width: calc(100% - 3rem);
   }
   
-  .sm\:container-xl {
+  #page-instit .sm\:container-xl {
     width: calc(100% - 3rem)
   }
   
-  .sm\:container-lg {
+  #page-instit .sm\:container-lg {
     width: calc(100% - 3rem)
   }
 
-  .sm\:container-full {
+  #page-instit .sm\:container-full {
     width: 100%;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .container {
+  #page-instit .container {
     width: calc(100% - 4rem);
   }
   
-  .container-xl {
+  #page-instit .container-xl {
     width: calc(100% - 4rem)
   }
   
-  .container-lg {
+  #page-instit .container-lg {
     width: calc(100% - 4rem)
   }
 
-  .container-full {
+  #page-instit .container-full {
     width: 100%;
   }
 
-  .md\:container {
+  #page-instit .md\:container {
     width: calc(100% - 4rem);
   }
   
-  .md\:container-xl {
+  #page-instit .md\:container-xl {
     width: calc(100% - 4rem)
   }
   
-  .md\:container-lg {
+  #page-instit .md\:container-lg {
     width: calc(100% - 4rem)
   }
 
-  .md\:container-full {
+  #page-instit .md\:container-full {
     width: 100%;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .lg\:container {
+  #page-instit .lg\:container {
     width: calc(100% - 8rem);
   }
   
-  .lg\:container-xl {
+  #page-instit .lg\:container-xl {
     width: calc(100% - 6rem)
   }
   
-  .lg\:container-lg {
+  #page-instit .lg\:container-lg {
     width: calc(100% - 4rem)
   }
 
-  .lg\:container-full {
+  #page-instit .lg\:container-full {
     width: 100%;
   }
 }
 
 @media screen and (min-width: 1440px) {
-  .xl\:container {
+  #page-instit .xl\:container {
     width: calc(100% - 30rem);
   }
   
-  .xl\:container-xl {
+  #page-instit .xl\:container-xl {
     width: calc(100% - 160px);
   }
   
-  .xl\:container-lg {
+  #page-instit .xl\:container-lg {
     width: calc(100% - 240px);
   }
 
-  .xl\:container-full {
+  #page-instit .xl\:container-full {
     width: 100%;
   }
 }

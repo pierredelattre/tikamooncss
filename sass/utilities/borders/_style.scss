@@ -1,131 +1,131 @@
-.border-none {
+#page-instit .border-none {
   border: none;
 }
 
-.border-solid {
+#page-instit .border-solid {
   border: solid;
 }
 
-.border-dashed {
+#page-instit .border-dashed {
   border: dashed;
 }
 
-.border-dotted {
+#page-instit .border-dotted {
   border: dotted;
 }
 
-.border-double {
+#page-instit .border-double {
   border: double;
 }
 
-.border-hidden {
+#page-instit .border-hidden {
   border: hidden;
 }
 
 @media screen and (max-width: 767px) {
-  /* Classe : .sm:border-none */
-  .sm\:border-none {
+  /* Classe : #page-instit .sm:border-none */
+  #page-instit .sm\:border-none {
     border: none;
   }
   
-  .sm\:border-solid {
+  #page-instit .sm\:border-solid {
     border: solid;
   }
   
-  .sm\:border-dashed {
+  #page-instit .sm\:border-dashed {
     border: dashed;
   }
   
-  .sm\:border-dotted {
+  #page-instit .sm\:border-dotted {
     border: dotted;
   }
   
-  .sm\:border-double {
+  #page-instit .sm\:border-double {
     border: double;
   }
   
-  .sm\:border-hidden {
+  #page-instit .sm\:border-hidden {
     border: hidden;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  /* Classe : .md:border-none */
-  .md\:border-none {
+  /* Classe : #page-instit .md:border-none */
+  #page-instit .md\:border-none {
     border: none;
   }
   
-  .md\:border-solid {
+  #page-instit .md\:border-solid {
     border: solid;
   }
   
-  .md\:border-dashed {
+  #page-instit .md\:border-dashed {
     border: dashed;
   }
   
-  .md\:border-dotted {
+  #page-instit .md\:border-dotted {
     border: dotted;
   }
   
-  .md\:border-double {
+  #page-instit .md\:border-double {
     border: double;
   }
   
-  .md\:border-hidden {
+  #page-instit .md\:border-hidden {
     border: hidden;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  /* Classe : .lg:border-none */
-  .lg\:border-none {
+  /* Classe : #page-instit .lg:border-none */
+  #page-instit .lg\:border-none {
     border: none;
   }
   
-  .lg\:border-solid {
+  #page-instit .lg\:border-solid {
     border: solid;
   }
   
-  .lg\:border-dashed {
+  #page-instit .lg\:border-dashed {
     border: dashed;
   }
   
-  .lg\:border-dotted {
+  #page-instit .lg\:border-dotted {
     border: dotted;
   }
   
-  .lg\:border-double {
+  #page-instit .lg\:border-double {
     border: double;
   }
   
-  .lg\:border-hidden {
+  #page-instit .lg\:border-hidden {
     border: hidden;
   }
 }
 
 @media screen and (min-width: 1440px) {
-  /* Classe : .sm:border-none */
-  .xl\:border-none {
+  /* Classe : #page-instit .sm:border-none */
+  #page-instit .xl\:border-none {
     border: none;
   }
   
-  .xl\:border-solid {
+  #page-instit .xl\:border-solid {
     border: solid;
   }
   
-  .xl\:border-dashed {
+  #page-instit .xl\:border-dashed {
     border: dashed;
   }
   
-  .xl\:border-dotted {
+  #page-instit .xl\:border-dotted {
     border: dotted;
   }
   
-  .xl\:border-double {
+  #page-instit .xl\:border-double {
     border: double;
   }
   
-  .xl\:border-hidden {
+  #page-instit .xl\:border-hidden {
     border: hidden;
   }
 }

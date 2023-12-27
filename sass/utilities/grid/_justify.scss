@@ -1,167 +1,167 @@
-.justify-normal {
+#page-instit .justify-normal {
   justify-content: normal;
 }
 
-.justify-start {
+#page-instit .justify-start {
   justify-content: flex-start;
 }
 
-.justify-end {
+#page-instit .justify-end {
   justify-content: flex-end;
 }
 
-.justify-center {
+#page-instit .justify-center {
   justify-content: center;
 }
 
-.justify-between {
+#page-instit .justify-between {
   justify-content: space-between;
 }
 
-.justify-evenly {
+#page-instit .justify-evenly {
   justify-content: space-evenly;
 }
 
-.justify-around {
+#page-instit .justify-around {
   justify-content: space-around;
 }
 
-.justify-stretch {
+#page-instit .justify-stretch {
   justify-content: stretch;
 }
 
 @media screen and (max-width: 767px) {
-  .sm\:justify-normal {
+  #page-instit .sm\:justify-normal {
     justify-content: normal;
   }
   
-  .sm\:justify-start {
+  #page-instit .sm\:justify-start {
     justify-content: flex-start;
   }
   
-  .sm\:justify-end {
+  #page-instit .sm\:justify-end {
     justify-content: flex-end;
   }
   
-  .sm\:justify-center {
+  #page-instit .sm\:justify-center {
     justify-content: center;
   }
   
-  .sm\:justify-between {
+  #page-instit .sm\:justify-between {
     justify-content: space-between;
   }
   
-  .sm\:justify-evenly {
+  #page-instit .sm\:justify-evenly {
     justify-content: space-evenly;
   }
   
-  .sm\:justify-around {
+  #page-instit .sm\:justify-around {
     justify-content: space-around;
   }
   
-  .sm\:justify-stretch {
+  #page-instit .sm\:justify-stretch {
     justify-content: stretch;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .md\:justify-normal {
+  #page-instit .md\:justify-normal {
     justify-content: normal;
   }
   
-  .md\:justify-start {
+  #page-instit .md\:justify-start {
     justify-content: flex-start;
   }
   
-  .md\:justify-end {
+  #page-instit .md\:justify-end {
     justify-content: flex-end;
   }
   
-  .md\:justify-center {
+  #page-instit .md\:justify-center {
     justify-content: center;
   }
   
-  .md\:justify-between {
+  #page-instit .md\:justify-between {
     justify-content: space-between;
   }
   
-  .md\:justify-evenly {
+  #page-instit .md\:justify-evenly {
     justify-content: space-evenly;
   }
   
-  .md\:justify-around {
+  #page-instit .md\:justify-around {
     justify-content: space-around;
   }
   
-  .md\:justify-stretch {
+  #page-instit .md\:justify-stretch {
     justify-content: stretch;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .lg\:justify-normal {
+  #page-instit .lg\:justify-normal {
     justify-content: normal;
   }
   
-  .lg\:justify-start {
+  #page-instit .lg\:justify-start {
     justify-content: flex-start;
   }
   
-  .lg\:justify-end {
+  #page-instit .lg\:justify-end {
     justify-content: flex-end;
   }
   
-  .lg\:justify-center {
+  #page-instit .lg\:justify-center {
     justify-content: center;
   }
   
-  .lg\:justify-between {
+  #page-instit .lg\:justify-between {
     justify-content: space-between;
   }
   
-  .lg\:justify-evenly {
+  #page-instit .lg\:justify-evenly {
     justify-content: space-evenly;
   }
   
-  .lg\:justify-around {
+  #page-instit .lg\:justify-around {
     justify-content: space-around;
   }
   
-  .lg\:justify-stretch {
+  #page-instit .lg\:justify-stretch {
     justify-content: stretch;
   }
 }
 
 @media screen and (min-width: 1440px) {
-  .xl\:justify-normal {
+  #page-instit .xl\:justify-normal {
     justify-content: normal;
   }
   
-  .xl\:justify-start {
+  #page-instit .xl\:justify-start {
     justify-content: flex-start;
   }
   
-  .xl\:justify-end {
+  #page-instit .xl\:justify-end {
     justify-content: flex-end;
   }
   
-  .xl\:justify-center {
+  #page-instit .xl\:justify-center {
     justify-content: center;
   }
   
-  .xl\:justify-between {
+  #page-instit .xl\:justify-between {
     justify-content: space-between;
   }
   
-  .xl\:justify-evenly {
+  #page-instit .xl\:justify-evenly {
     justify-content: space-evenly;
   }
   
-  .xl\:justify-around {
+  #page-instit .xl\:justify-around {
     justify-content: space-around;
   }
   
-  .xl\:justify-stretch {
+  #page-instit .xl\:justify-stretch {
     justify-content: stretch;
   }
 }
