@@ -1,272 +1,42 @@
 /* Grid : order */
-#page-instit .order-0 {
-  order: 0;
-}
-
-#page-instit .order-1 {
-  order: 1;
-}
-
-#page-instit .order-2 {
-  order: 2;
-}
-
-#page-instit .order-3 {
-  order: 3;
-}
-
-#page-instit .order-4 {
-  order: 4;
-}
-
-#page-instit .order-5 {
-  order: 5;
-}
-
-#page-instit .order-6 {
-  order: 6;
-}
-
-#page-instit .order-7 {
-  order: 7;
-}
-
-#page-instit .order-8 {
-  order: 8;
-}
-
-#page-instit .order-9 {
-  order: 9;
-}
-
-#page-instit .order-10 {
-  order: 10;
-}
-
-#page-instit .order-11 {
-  order: 11;
-}
-
-#page-instit .order-12 {
-  order: 12;
+@for $i from 0 through 12 {
+  #page-instit .order-#{$i} {
+    order: $i;
+  }
 }
 
 @media screen and (max-width: 767px) {
   /* Classe : #page-instit .sm:order-0 */
-  #page-instit .sm\:order-0 {
-    order: 0;
-  }
-  
-  #page-instit .sm\:order-1 {
-    order: 1;
-  }
-  
-  #page-instit .sm\:order-2 {
-    order: 2;
-  }
-  
-  #page-instit .sm\:order-3 {
-    order: 3;
-  }
-  
-  #page-instit .sm\:order-4 {
-    order: 4;
-  }
-  
-  #page-instit .sm\:order-5 {
-    order: 5;
-  }
-  
-  #page-instit .sm\:order-6 {
-    order: 6;
-  }
-  
-  #page-instit .sm\:order-7 {
-    order: 7;
-  }
-  
-  #page-instit .sm\:order-8 {
-    order: 8;
-  }
-  
-  #page-instit .sm\:order-9 {
-    order: 9;
-  }
-  
-  #page-instit .sm\:order-10 {
-    order: 10;
-  }
-  
-  #page-instit .sm\:order-11 {
-    order: 11;
-  }
-  
-  #page-instit .sm\:order-12 {
-    order: 12;
+  @for $i from 0 through 12 {
+    #page-instit .sm\:order-#{$i} {
+      order: $i;
+    }
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   /* Classe : #page-instit .md:order-0 */
-  #page-instit .md\:order-0 {
-    order: 0;
-  }
-  
-  #page-instit .md\:order-1 {
-    order: 1;
-  }
-  
-  #page-instit .md\:order-2 {
-    order: 2;
-  }
-  
-  #page-instit .md\:order-3 {
-    order: 3;
-  }
-  
-  #page-instit .md\:order-4 {
-    order: 4;
-  }
-  
-  #page-instit .md\:order-5 {
-    order: 5;
-  }
-  
-  #page-instit .md\:order-6 {
-    order: 6;
-  }
-  
-  #page-instit .md\:order-7 {
-    order: 7;
-  }
-  
-  #page-instit .md\:order-8 {
-    order: 8;
-  }
-  
-  #page-instit .md\:order-9 {
-    order: 9;
-  }
-  
-  #page-instit .md\:order-10 {
-    order: 10;
-  }
-  
-  #page-instit .md\:order-11 {
-    order: 11;
-  }
-  
-  #page-instit .md\:order-12 {
-    order: 12;
+  @for $i from 0 through 12 {
+    #page-instit .md\:order-#{$i} {
+      order: $i;
+    }
   }
 }
 
 @media screen and (min-width: 1024px) {
   /* Classe : #page-instit .lg:order-0 */
-  #page-instit .lg\:order-0 {
-    order: 0;
-  }
-  
-  #page-instit .lg\:order-1 {
-    order: 1;
-  }
-  
-  #page-instit .lg\:order-2 {
-    order: 2;
-  }
-  
-  #page-instit .lg\:order-3 {
-    order: 3;
-  }
-  
-  #page-instit .lg\:order-4 {
-    order: 4;
-  }
-  
-  #page-instit .lg\:order-5 {
-    order: 5;
-  }
-  
-  #page-instit .lg\:order-6 {
-    order: 6;
-  }
-  
-  #page-instit .lg\:order-7 {
-    order: 7;
-  }
-  
-  #page-instit .lg\:order-8 {
-    order: 8;
-  }
-  
-  #page-instit .lg\:order-9 {
-    order: 9;
-  }
-  
-  #page-instit .lg\:order-10 {
-    order: 10;
-  }
-  
-  #page-instit .lg\:order-11 {
-    order: 11;
-  }
-  
-  #page-instit .lg\:order-12 {
-    order: 12;
+  @for $i from 0 through 12 {
+    #page-instit .lg\:order-#{$i} {
+      order: $i;
+    }
   }
 }
 
 @media screen and (min-width: 1440px) {
   /* Classe : #page-instit .xl:order-0 */
-  #page-instit .xl\:order-0 {
-    order: 0;
-  }
-  
-  #page-instit .xl\:order-1 {
-    order: 1;
-  }
-  
-  #page-instit .xl\:order-2 {
-    order: 2;
-  }
-  
-  #page-instit .xl\:order-3 {
-    order: 3;
-  }
-  
-  #page-instit .xl\:order-4 {
-    order: 4;
-  }
-  
-  #page-instit .xl\:order-5 {
-    order: 5;
-  }
-  
-  #page-instit .xl\:order-6 {
-    order: 6;
-  }
-  
-  #page-instit .xl\:order-7 {
-    order: 7;
-  }
-  
-  #page-instit .xl\:order-8 {
-    order: 8;
-  }
-  
-  #page-instit .xl\:order-9 {
-    order: 9;
-  }
-  
-  #page-instit .xl\:order-10 {
-    order: 10;
-  }
-  
-  #page-instit .xl\:order-11 {
-    order: 11;
-  }
-  
-  #page-instit .xl\:order-12 {
-    order: 12;
+  @for $i from 0 through 12 {
+    #page-instit .xl\:order-#{$i} {
+      order: $i;
+    }
   }
 }

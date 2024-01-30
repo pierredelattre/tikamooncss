@@ -233,6 +233,51 @@
   display: grid;
 }
 
+@media screen and (max-width: 767px) {
+  .sm\:grid {
+    display: grid;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .md\:grid {
+    display: grid;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lg\:grid {
+    display: grid;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .xl\:grid {
+    display: grid;
+  }
+}
+/* Grid system */
+#page-instit .flex {
+  display: flex;
+}
+
+@media screen and (max-width: 767px) {
+  .sm\:flex {
+    display: flex;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .md\:flex {
+    display: flex;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lg\:flex {
+    display: flex;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .xl\:flex {
+    display: flex;
+  }
+}
 /* Grid : Columns */
 #page-instit .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
