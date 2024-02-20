@@ -1,5 +1,5 @@
 /* Grid system */
-#page-instit .flex   {
+#page-instit .flex {
   display: flex;
 }
 
@@ -24,5 +24,93 @@
 @media screen and (min-width: 1440px) {
   .xl\:flex {
     display: flex;
+  }
+}
+
+#page-instit .column {
+  flex-direction: column;
+}
+
+#page-instit .row {
+  flex-direction: row;
+}
+
+#page-instit .column-reverse {
+  flex-direction: column-reverse;
+}
+
+#page-instit .row-reverse {
+  flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 767px) {
+  #page-instit .sm\:column {
+    flex-direction: column;
+  }
+  
+  #page-instit .sm\:row {
+    flex-direction: row;
+  }
+  
+  #page-instit .sm\:column-reverse {
+    flex-direction: column-reverse;
+  }
+  
+  #page-instit .sm\:row-reverse {
+    flex-direction: row-reverse;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #page-instit .md\:column {
+    flex-direction: column;
+  }
+  
+  #page-instit .md\:row {
+    flex-direction: row;
+  }
+  
+  #page-instit .md\:column-reverse {
+    flex-direction: column-reverse;
+  }
+  
+  #page-instit .md\:row-reverse {
+    flex-direction: row-reverse;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #page-instit .lg\:column {
+    flex-direction: column;
+  }
+  
+  #page-instit .lg\:row {
+    flex-direction: row;
+  }
+  
+  #page-instit .lg\:column-reverse {
+    flex-direction: column-reverse;
+  }
+  
+  #page-instit .lg\:row-reverse {
+    flex-direction: row-reverse;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  #page-instit .xl\:column {
+    flex-direction: column;
+  }
+  
+  #page-instit .xl\:row {
+    flex-direction: row;
+  }
+  
+  #page-instit .xl\:column-reverse {
+    flex-direction: column-reverse;
+  }
+  
+  #page-instit .xl\:row-reverse {
+    flex-direction: row-reverse;
   }
 }
